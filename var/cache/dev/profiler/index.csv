@@ -1,0 +1,4 @@
+1bef0b,192.168.10.1,GET,http://symfony01.local/micro-post/,1524120809,2c2956,200
+2c2956,192.168.10.1,GET,http://symfony01.local/micro-post/,1524120809,,500
+97929f,192.168.10.1,GET,http://symfony01.local/,1524760832,bb7f63,200
+bb7f63,192.168.10.1,GET,http://symfony01.local/,1524760832,,404
